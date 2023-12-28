@@ -2,9 +2,9 @@
   <a href=""><img src="computer-pixel.gif" alt="Banner"></a>
 </p>
 
-<h3 align="center">
+<h1 align="center">
   Hello 👋
-</h3>
+</h1>
 <p align="center">
   <b>I'm currently an undergraduate student majoring in computer science, based in Indonesia!</b>
 </p>
