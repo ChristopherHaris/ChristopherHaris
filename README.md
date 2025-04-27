@@ -22,7 +22,7 @@
   <a href=https://www.linkedin.com/in/christopher-haris/>
     <img align=left src=https://raw.githubusercontent.com/ChristopherHaris/ChristopherHaris/main/images/linkedin.svg alt=”CH | LinkedIn” width=21px/>
   </a>
-  <a href=https://www.instagram.com/xu.y.kang/>
-    <img align=left src=https://raw.githubusercontent.com/ChristopherHaris/ChristopherHaris/main/images/instagram.svg alt=”CH | LinkedIn” width=21px/>
+  <a href=https://www.instagram.com/christhars/>
+    <img align=left src=https://raw.githubusercontent.com/ChristopherHaris/ChristopherHaris/main/images/instagram.svg alt=”CH | Instagram” width=21px/>
   </a>
 </div>
